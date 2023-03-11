@@ -1,0 +1,64 @@
+{
+    "products":[
+    {
+        "id": 0,
+        "imageUrl": "data:image/jpeg;base64,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",
+        "name": "Iphone X",
+        "types": [0, 1],
+        "sizes": ["X","XR"],
+        "price": 803232,
+        "category": 0,
+        "rating": 4
+    },
+    {
+        "id": 1,
+        "imageUrl": "https://avatars.mds.yandex.net/get-marketpic/1641365/pic4e32322b4479323be6bb9bd2bf8f54b7/orig",
+        "name": "Iphone 7",
+        "types": [0],
+        "sizes": ["7", "7+"],
+        "price": 91203,
+        "category": 1,
+        "rating": 6
+    },
+    {
+        "id": 2,
+        "imageUrl": "https://avatars.mds.yandex.net/get-mpic/1808939/img_id7231978804745816168.jpeg/orig",
+        "name": "Iphone 6",
+        "types": [0],
+        "sizes": ["11", "11 Pro"],
+        "price": 29995,
+        "category": 1,
+        "rating": 4
+    },
+    {
+        "id": 3,
+        "imageUrl": "https://avatars.mds.yandex.net/get-marketpic/1924701/picb9b750999a49df7d37e49b01c9e98ffa/orig",
+        "name": "Iphone 8",
+        "types": [1],
+        "sizes": ["8","8+"],
+        "price": 277995,
+        "category": 2,
+        "rating": 2
+    },
+    {
+        "id": 4,
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCsF6jzPOQTwpUT0gxYPfzUa0iMlT5O_QoyQ&usqp=CAU",
+        "name": "Iphone SE 2020",
+        "types": [0, 1],
+        "sizes": ["2","2+2"],
+        "price": 4115.3,
+        "category": 3,
+        "rating": 8
+    },
+    {
+        "id": 5,
+        "imageUrl": "https://avatars.mds.yandex.net/get-mpic/5241173/img_id7095765708916818250.jpeg/orig",
+        "name": "Airpods Pro",
+        "types": [0],
+        "sizes": ["Airpods", "Ne Airpods"],
+        "price": 58000,
+        "category": 2,
+        "rating": 2
+    }
+]
+}
